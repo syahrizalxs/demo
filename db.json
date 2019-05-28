@@ -1,14 +1,16 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "id": 1, "Testing API": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "wow it's great!", "postId": 1 },
+    { "id": 2, "body": "Wow!", "postId": 1 },
+    { "id": 3, "body": "Wow it worked!", "postId": 3 },
+    { "id": 4, "body": "Thankyou", "postId": 2 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Syahrizalxs"
   }
 }
