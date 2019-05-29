@@ -44,13 +44,4 @@
    
     }
   ]
-  "comments": [
-    { "id": 1, "body": "wow it's great!", "postId": 1 },
-    { "id": 2, "body": "Wow!", "postId": 1 },
-    { "id": 3, "body": "Wow it worked!", "postId": 3 },
-    { "id": 4, "body": "Thankyou", "postId": 2 }
-  ],
-  "profile": {
-    "name": "Syahrizalxs"
-  }
 }
